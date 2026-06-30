@@ -50,3 +50,10 @@ Reading Practice tamamlanma sayısı, kullanıcının seviye ilerlemesine dahil 
 ## Kullanıcıya Katkısı
 
 Reading Practice modülü, kullanıcının İngilizce metinleri anlama becerisini geliştirmeye yardımcı olur. Ayrıca sorular sayesinde kullanıcının metni dikkatli okuyup okumadığı ölçülür.
+## Reading Practice Ekranı Görünümleri
+
+Aşağıda LearnEng uygulamasında yer alan Reading Practice modülüne ait örnek ekran görünümleri verilmiştir.
+
+![Reading Practice 1](./images/reading1.png)
+
+![Reading Practice 2](./images/reading2.png)

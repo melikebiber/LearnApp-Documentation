@@ -12,12 +12,15 @@ Proje sonucunda elde edilen başlıca çıktılar şunlardır:
 
 - Kullanıcı dostu bir ana sayfa tasarlanmıştır.
 - İngilizce seviyelerine göre içerik yapısı oluşturulmuştur.
-- Kelime pratiği modülü hazırlanmıştır.
+- Kelime pratiği modülü geliştirilmiştir.
 - Quiz sistemi geliştirilmiştir.
-- Reading practice ve listening practice bölümleri eklenmiştir.
+- Reading Practice ve Listening Practice bölümleri eklenmiştir.
 - Dil bilgisi modülü oluşturulmuştur.
-- Favori kelimeler bölümü planlanmıştır.
+- Favori ve öğrenilen kelimeler sistemi geliştirilmiştir.
+- Kullanıcı kayıt ve giriş sistemi hazırlanmıştır.
+- Kullanıcı profil sayfası oluşturulmuştur.
 - Kullanıcının öğrenme sürecini takip edebileceği ilerleme ekranı hazırlanmıştır.
+- Çoklu veriye dayalı ilerleme takip sistemi geliştirilmiştir.
 - Uygulama arayüzü daha modern ve okunabilir hale getirilmiştir.
 
 ## Projenin Sağladığı Katkılar

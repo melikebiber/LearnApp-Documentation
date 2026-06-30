@@ -63,3 +63,10 @@ Listening Practice tamamlanma sayısı seviye ilerleme hesabına dahil edilir. B
 Listening Practice modülü, kullanıcının İngilizce duyduğunu anlama becerisini geliştirir. Metnin cevap verildikten sonra gösterilmesi, kullanıcının dinlediği metin ile yazılı metni karşılaştırmasını sağlar.
 
 Bu sayede kullanıcı hem dinleme hem de okuma becerisini birlikte pekiştirir.
+## Listening Practice Ekranı Görünümleri
+
+Aşağıda LearnEng uygulamasında yer alan Listening Practice modülüne ait örnek ekran görünümleri verilmiştir.
+
+![Listening Practice 1](./images/listening1.png)
+
+![Listening Practice 2](./images/listening2.png)

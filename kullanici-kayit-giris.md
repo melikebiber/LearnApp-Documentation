@@ -47,3 +47,14 @@ Uygulamada kullanıcıya ait tüm ilerleme ve öğrenme verileri `user_id` ile i
 ## Sistemin Önemi
 
 Kullanıcı kayıt ve giriş sistemi, LearnEng uygulamasının kişiselleştirilmiş öğrenme deneyimi sunabilmesi için temel bir bileşendir. Bu sistem sayesinde uygulama yalnızca içerik gösteren bir platform olmaktan çıkarak kullanıcının gelişimini takip eden bir öğrenme uygulamasına dönüşmüştür.
+## Kayıt Ol Ekranı Görünümü
+
+Aşağıda LearnEng uygulamasında yeni kullanıcıların hesap oluşturabildiği kayıt ol ekranı yer almaktadır.
+
+![Kayıt Ol Ekranı](./images/kayit-ol.png)
+
+## Giriş Ekranı Görünümü
+
+Aşağıda kayıtlı kullanıcıların uygulamaya erişim sağlayabildiği giriş ekranı yer almaktadır.
+
+![Giriş Ekranı](./images/giris.png)

@@ -31,6 +31,27 @@ Bu yapı sayesinde kullanıcı kendi seviyesine uygun içeriklerle çalışabili
 Uygulamada kullanıcıyı yormayan, sade ve modern bir renk düzeni tercih edilmiştir. Butonlar, kartlar ve başlıklar arasında görsel bütünlük sağlanarak arayüzün daha düzenli görünmesi amaçlanmıştır.
 
 Renklerin ve boşlukların dengeli kullanılması, uygulamanın daha okunabilir ve kullanışlı olmasını sağlar.
+## Uygulama Ana Sayfa Görünümleri
+
+Aşağıda LearnEng uygulamasının ana sayfa ekranlarına ait örnek görünümler yer almaktadır.
+
+![Ana Sayfa 1](images/anasayfa1.png)
+
+![Ana Sayfa 2](images/anasayfa2.png)
+
+## Profil Ekranı Görünümleri
+
+Aşağıda kullanıcı profil ekranına ait örnek görünümler verilmiştir.
+
+![Profil Ekranı 1](images/profilim.png)
+
+![Profil Ekranı 2](images/profilim2.png)
+
+## Modlar Ekranı Görünümü
+
+Aşağıda uygulamada yer alan öğrenme modları ekranı gösterilmiştir.
+
+![Modlar Ekranı](images/modlar.png)
 
 ## Kullanıcı Deneyimi
 

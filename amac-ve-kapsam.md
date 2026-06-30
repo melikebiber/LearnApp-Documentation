@@ -1,12 +1,12 @@
 # Amaç ve Kapsam
 
-Bu projenin amacı, İngilizce öğrenmek isteyen kullanıcılar için etkileşimli ve seviyeye dayalı bir öğrenme ortamı geliştirmektir. LearnEng uygulaması; kelime öğrenme, dil bilgisi çalışmaları, quizler, okuma alıştırmaları ve dinleme alıştırmaları gibi farklı öğrenme modüllerini bir araya getirir.
+LearnEng projesinin amacı, İngilizce öğrenmek isteyen kullanıcılar için etkileşimli, seviyeye dayalı ve takip edilebilir bir öğrenme ortamı geliştirmektir. Uygulama; kelime öğrenme, dil bilgisi çalışmaları, quizler, okuma alıştırmaları ve dinleme alıştırmaları gibi farklı öğrenme modüllerini tek bir platformda bir araya getirir.
 
 ## Projenin Amacı
 
-LearnEng uygulamasının temel amacı, kullanıcıların İngilizce öğrenme sürecini daha düzenli, takip edilebilir ve eğlenceli hale getirmektir. Kullanıcılar uygulama üzerinden seviyelerine uygun içeriklere ulaşabilir, öğrendikleri kelimeleri işaretleyebilir, favori kelimelerini kaydedebilir ve quiz sonuçlarına göre gelişimlerini takip edebilir.
+LearnEng uygulamasının temel amacı, kullanıcıların İngilizce öğrenme sürecini daha düzenli, verimli ve eğlenceli hale getirmektir. Kullanıcılar uygulama üzerinden seviyelerine uygun içeriklere ulaşabilir, öğrendikleri kelimeleri işaretleyebilir, favori kelimelerini kaydedebilir ve quiz sonuçlarına göre gelişimlerini takip edebilir.
 
-Uygulamada yalnızca test çözmeye dayalı bir yapı yerine, farklı becerileri destekleyen bir öğrenme sistemi oluşturulmuştur. Bu sayede kullanıcı hem kelime bilgisini hem dil bilgisi bilgisini hem de okuma ve dinleme becerilerini geliştirebilir.
+Uygulamada yalnızca test çözmeye dayalı bir yapı yerine, farklı dil becerilerini destekleyen bütüncül bir öğrenme sistemi oluşturulmuştur. Bu sayede kullanıcı hem kelime bilgisini hem dil bilgisi bilgisini hem de okuma ve dinleme becerilerini geliştirebilir.
 
 ## Projenin Kapsamı
 

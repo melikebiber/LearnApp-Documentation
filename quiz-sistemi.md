@@ -43,3 +43,8 @@ LearnEng uygulamasında quiz başarısı genel seviye ilerlemesine belirli bir a
 Quiz sistemi kullanıcının öğrendiği bilgileri test etmesini sağlar. Kullanıcı eksik olduğu alanları fark edebilir ve tekrar çalışması gereken konulara yönelebilir.
 
 Bu modül, öğrenilen bilgilerin ölçülmesi ve kullanıcının gelişiminin takip edilmesi açısından önemli bir bölümdür.
+## Quiz Ekranı Görünümü
+
+Aşağıda LearnEng uygulamasındaki quiz ekranına ait örnek görünüm verilmiştir.
+
+![Quiz Ekranı](images/quiz.png)

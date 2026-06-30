@@ -37,3 +37,14 @@ Aynı kelime aynı kullanıcı için tekrar tekrar kaydedilmez. Böylece öğren
 Favori ve öğrenilen kelime sistemleri, kullanıcının öğrenme sürecini kişiselleştirir. Kullanıcı hem tekrar etmek istediği kelimeleri saklayabilir hem de öğrendiği kelimeleri takip edebilir.
 
 Bu yapı, uygulamanın kullanıcıya özel bir öğrenme deneyimi sunmasını sağlar.
+## Favori Kelimeler Ekranı Görünümü
+
+Aşağıda kullanıcının favori kelimelerini görüntüleyebildiği ekran gösterilmiştir.
+
+![Favoriler Ekranı](images/favoriler.png)
+
+## Öğrenilen Kelimeler Ekranı Görünümü
+
+Aşağıda kullanıcının öğrendiği kelimeleri takip edebildiği ekran gösterilmiştir.
+
+![Öğrendiklerim Ekranı](images/ögrendiklerim.png)

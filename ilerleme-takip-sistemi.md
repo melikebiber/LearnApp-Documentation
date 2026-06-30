@@ -26,9 +26,13 @@ Genel seviye ilerlemesi beş farklı öğrenme alanının ağırlıklı ortalama
 
 Kullanılan ağırlıklar:
 
-```text
 Quiz başarısı: %35
 Öğrenilen kelime: %25
 Grammar çalışması: %20
 Reading Practice: %10
 Listening Practice: %10
+## İlerleme Ekranı Görünümü
+
+Aşağıda kullanıcının öğrenme ilerlemesini takip ettiği ekran gösterilmiştir.
+
+![İlerlemem Ekranı](images/ilerlemem.png)

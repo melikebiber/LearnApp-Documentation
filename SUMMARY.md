@@ -18,5 +18,5 @@
 * [İlerleme Takip Sistemi](ilerleme-takip-sistemi.md)
 * [Arayüz Tasarımı](arayuz-tasarimi.md)
 * [Test ve Sonuçlar](test-ve-sonuclar.md)
-* [Karşılaşılan Problemler ve Çözümler](problemler-ve-cozumler.md)
-* [Sonuç ve Gelecek Geliştirmeler](sonuc.md)
+* [Karşılaşılan Problemler ve Çözümler](karsilasilan-problemler-ve-cozumler.md)
+* [Sonuç ve Gelecek Geliştirmeler](sonuc-ve-gelecek-gelistirmeler.md)
